@@ -40,3 +40,13 @@ Suma de vectores, segundo ejemplo:
 
 #Suma de dos vectores
 c(1,6,8) + c(12,48,50)
+```
+
+Suma de vectores, tercer ejemplo:
+```{r}
+#Creación de un vector
+
+#Suma de dos vectores
+c(8,7,2) + c(15,0,80)
+```
+
