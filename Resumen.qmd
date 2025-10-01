@@ -26,4 +26,3 @@ Reciclaje de elementos de un vector
 #| echo: false
 c(1,4,6) + 4
 ```
-
